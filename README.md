@@ -1,5 +1,19 @@
 # Welcome!
 
+> ## About this fork
+>
+> This is Boston University **CDS 210**'s fork of
+> [slackermedia/bashcrawl](https://gitlab.com/slackermedia/bashcrawl), used for
+> Project 1, Checkpoint 1. It is licensed GPLv3, the same as upstream.
+>
+> Changes from upstream, all made 2026-09-10:
+>
+> - `entrance/.rift/spire/mezzanine/.elevator/display`: reduced the number of floors in the elevator to speed up the trip.
+> - `entrance/.vault/stronghold/scroll` and `cellar/armoury/chamber/spell` had different spellings of the same word, now consistent.
+> - `entrance/.rift/spire/mezzanine/.elevator/.satellite/notebook`: adds a hint to strongly reduce the size of the space.
+
+
+
 This is a game to teach you the basics of using a POSIX (Linux, BSD, UNIX) terminal.
 
 ## Download and unpack

@@ -26,11 +26,17 @@ me the robot is assembled correctly:
 
     sha256sum -c sha256sums
 
-I will attempt every combination and document the one
-that succeeds.
+I have attempted many combinations and documented each
+one that failed:
 
     alpha beta delta gamma
-    alpha delta bet
+    beta gamma alpha delta
+    gamma alpha delta beta
+
+I begin to see the shape of it.  Only those orders
+beginning with delta decode at all, and of those, gamma
+has always come last.  Two orders remain untried.  I
+shall attempt them on the m
 
 There appears to be dried blood on the notebook, and the
 rest of the pages are blank.

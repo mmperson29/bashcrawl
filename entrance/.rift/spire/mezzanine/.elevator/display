@@ -13,7 +13,7 @@
 # We're happy to provide hints.
 #
 
-floors=666
+floors=24
 countdown () {
 	var=${floors}
 	len=${#var}
